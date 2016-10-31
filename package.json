@@ -1,0 +1,27 @@
+{
+  "name": "chai-mocha-basics",
+  "version": "1.0.0",
+  "description": "A basic Chai Mocha setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigurjon/chai-mocha-basics.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "'Jón <'sigurjonb11@ru.is'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sigurjon/chai-mocha-basics/issues"
+  },
+  "homepage": "https://github.com/sigurjon/chai-mocha-basics#readme",
+  "dependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.1.2"
+  }
+}
